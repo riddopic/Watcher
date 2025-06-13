@@ -36,3 +36,4 @@ shadow-useragent==0.0.17
 
 # Cybersecurity and Incident Response
 pymisp==2.5.3
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
